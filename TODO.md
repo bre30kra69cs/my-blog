@@ -1,0 +1,7 @@
+- [ ] Описание
+- [ ] Внешний конфиг
+- [ ] prettier
+- [ ] editorconfig
+- [ ] git actions
+- [ ] react-helmet
+- [ ] husky
